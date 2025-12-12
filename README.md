@@ -17,11 +17,11 @@ When I'm not coding, you'll probably find me exploring new tech, tinkering with 
 
 ## What I'm up to
 
-- Building web and mobile apps with modern frameworks
+- Focusing on secure software development practices
+- Practicing for CSSLP certification
+- Building my professional certifications
 - Contributing to open-source projects
-- Learning new things in AI/ML and cloud architecture
-- Writing about development and sharing knowledge
-- Consulting on full-stack development and architecture
+- Full-stack development consulting
 
 <br>
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
@@ -53,7 +53,7 @@ React Native, Expo, iOS (Swift)
 **DevOps & Cloud**
 
 ```
-AWS, Azure, Docker, Kubernetes
+AWS, Docker, Kubernetes
 GitHub Actions, CI/CD, Terraform
 ```
 
@@ -75,7 +75,7 @@ GitHub Actions, CI/CD, Terraform
 - E-commerce platforms with payment processing and real-time inventory
 - SaaS dashboards with analytics and custom reporting
 - Mobile banking apps with secure authentication
-- Healthcare systems with HIPAA compliance
+- Healthcare systems with HIPAA, GDPR, and NIS2 compliance
 
 <br>
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
