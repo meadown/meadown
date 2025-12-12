@@ -18,8 +18,9 @@ When I'm not coding, you'll probably find me exploring new tech, tinkering with 
 ## What I'm up to
 
 - Focusing on secure software development practices
-- Practicing for CSSLP certification
+- Practicing for [CSSLP](https://www.isc2.org/certifications/csslp) certification
 - Building my professional certifications
+- Open-sourcing reusable components and hooks
 - Contributing to open-source projects
 - Full-stack development consulting
 
