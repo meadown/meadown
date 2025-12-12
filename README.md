@@ -99,16 +99,6 @@ I'm always happy to chat about tech, collaborate on interesting projects, or hel
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meadown&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
-<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
-
 <p align="center">
   <i>Thanks for stopping by! Feel free to reach out if you want to build something cool together.</i>
 </p>
