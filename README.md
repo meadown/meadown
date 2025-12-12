@@ -4,7 +4,7 @@
 
 ## Hey there, I'm Dewan 👋
 
-I'm a full-stack developer who loves building things for the web, mobile, and cloud. I've worked across the full spectrum - from scrappy startup MVPs to enterprise systems handling millions of users.
+A full-stack developer who loves building things for the web, mobile, and cloud. I've worked across the full spectrum - from scrappy startup MVPs to enterprise systems handling millions of users.
 
 These days, I spend most of my time working with modern JavaScript frameworks, building backends that scale, creating mobile apps, and wrangling cloud infrastructure. I'm passionate about writing clean code, contributing to open source, and helping other developers learn and grow.
 
@@ -33,21 +33,21 @@ When I'm not coding, you'll probably find me exploring new tech, tinkering with 
 **Frontend**
 
 ```
-JavaScript/TypeScript, React, Next.js, Vue, Nuxt, Svelte
+JavaScript/TypeScript, React, Next.js, Svelte
 Tailwind CSS, Material-UI, Redux, Zustand
 ```
 
 **Backend**
 
 ```
-Node.js, Express, NestJS, Python, Django, FastAPI
+Node.js, Express, NestJS, FastAPI
 PostgreSQL, MongoDB, Redis, GraphQL, REST APIs
 ```
 
 **Mobile**
 
 ```
-React Native, Flutter, iOS (Swift), Android (Kotlin)
+React Native, Expo, iOS (Swift)
 ```
 
 **DevOps & Cloud**
@@ -98,10 +98,6 @@ I'm always happy to chat about tech, collaborate on interesting projects, or hel
 <br>
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meadown&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meadown&theme=radical&hide_border=true" alt="GitHub Streak" />
