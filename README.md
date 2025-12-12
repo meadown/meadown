@@ -87,9 +87,10 @@ GitHub Actions, CI/CD, Terraform
 I'm always happy to chat about tech, collaborate on interesting projects, or help out fellow developers.
 
 <div align="left">
-    <p><a href="https://github.com/meadown"><img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-gray.svg?colorA=6A788D&colorB=181717&style=for-the-badge" /></a>&nbsp;<small>Check out my code</small></p>
-    <p><a href="https://www.linkedin.com/in/dewan-meadown/"><img alt="LinkedIn" align="center" src="https://img.shields.io/badge/-LinkedIn-gray.svg?colorA=6A788D&colorB=0077b5&style=for-the-badge" /></a>&nbsp;<small>Professional stuff</small></p>
+    <p><a href="https://www.npmjs.com/~meadown"><img alt="npm" align="center" src="https://img.shields.io/badge/-npm-gray.svg?colorA=6A788D&colorB=CB3837&style=for-the-badge" /></a>&nbsp;<small>Published packages</small></p>
     <p><a href="mailto:inbox.meadown@gmail.com"><img alt="Email" align="center" src="https://img.shields.io/badge/-Email-gray.svg?colorA=6A788D&colorB=D44638&style=for-the-badge" /></a>&nbsp;<small>Drop me a line</small></p>
+      <p><a href="https://github.com/meadown"><img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-gray.svg?colorA=6A788D&colorB=181717&style=for-the-badge" /></a>&nbsp;<small>Check out my code</small></p><p><a href="https://www.linkedin.com/in/dewan-meadown/"><img alt="LinkedIn" align="center" src="https://img.shields.io/badge/-LinkedIn-gray.svg?colorA=6A788D&colorB=0077b5&style=for-the-badge" /></a>&nbsp;<small>Professional stuff</small></p>
+
 </div>
 
 <br>
