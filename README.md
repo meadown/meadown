@@ -4,8 +4,6 @@
 
 ## Hey there, I'm Dewan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=meadown&color=blue&style=flat-square)
-
 A full-stack developer who loves building things for the web, mobile, and cloud. I've worked across the full spectrum - from scrappy startup MVPs to enterprise systems handling millions of users.
 
 These days, I spend most of my time working with modern JavaScript frameworks, building backends that scale, creating mobile apps, and wrangling cloud infrastructure. I'm passionate about writing clean code, contributing to open source, and helping other developers learn and grow.
@@ -88,6 +86,8 @@ GitHub Actions, CI/CD, Terraform
 ## Let's connect
 
 I'm always happy to chat about tech, collaborate on interesting projects, or help out fellow developers.
+
+![Profile Views](https://komarev.com/ghpvc/?username=meadown&color=blue&style=flat-square)
 
 <div align="left">
     <p><a href="https://www.npmjs.com/~meadown"><img alt="npm" align="center" src="https://img.shields.io/badge/-npm-gray.svg?colorA=6A788D&colorB=CB3837&style=for-the-badge" /></a>&nbsp;<small>Published packages</small></p>
