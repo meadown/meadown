@@ -4,6 +4,8 @@
 
 ## Hey there, I'm Dewan 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=meadown&color=blue&style=flat-square)
+
 A full-stack developer who loves building things for the web, mobile, and cloud. I've worked across the full spectrum - from scrappy startup MVPs to enterprise systems handling millions of users.
 
 These days, I spend most of my time working with modern JavaScript frameworks, building backends that scale, creating mobile apps, and wrangling cloud infrastructure. I'm passionate about writing clean code, contributing to open source, and helping other developers learn and grow.
