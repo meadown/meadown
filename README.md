@@ -4,11 +4,9 @@
 
 ## Hey there, I'm Dewan 👋
 
-A full-stack developer who loves building things for the web, mobile, and cloud. I've worked across the full spectrum - from scrappy startup MVPs to enterprise systems handling millions of users.
+Full-Stack Software Engineer focused on building scalable web and cloud-based applications with a strong emphasis on backend architecture, reliability, and long-term maintainability. I work primarily with Node.js, TypeScript, React, and AWS, and I enjoy designing APIs, improving system structure, and making codebases easier to understand and evolve over time.
 
-These days, I spend most of my time working with modern JavaScript frameworks, building backends that scale, creating mobile apps, and wrangling cloud infrastructure. I'm passionate about writing clean code, contributing to open source, and helping other developers learn and grow.
-
-When I'm not coding, you'll probably find me exploring new tech, tinkering with side projects, or sharing what I've learned with the developer community.
+My recent work has included architecture refactoring, dependency composition, error handling, life-cycle management, and backend design improvements that support cleaner and more reliable systems. Alongside team-based engineering work, I also build independent SaaS-oriented projects with a practical and product-minded approach.
 
 <br>
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
